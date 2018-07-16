@@ -1,0 +1,82 @@
+
+
+body{
+    margin: 0 auto;
+  
+}
+
+.principal{
+    width: 100%;
+    height: 900px;
+    background: url(../img/fundo.png) no-repeat;
+
+}
+
+p{
+    text-align: 20px;
+}
+
+.personagens{
+    background: url(../img/.png);
+}
+
+.plantaforma{
+    background: url(../img/.png);
+}
+.cabecalho{
+    height: auto;
+    display: flex;
+}
+.cinza{
+    border-top: 5px solid #333;
+    margin-top: 0;
+}
+.ver{
+    border-top: 5px solid #0f0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.buton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.botao {
+    border-radius: 20px;
+    width: 100px;
+    padding: 15px 20px;
+}
+
+/* destaqueDois */
+.destaqueDois{
+    height: 80%;
+    display: flex;
+}
+
+.destaqueDois article{
+    height: auto;
+    width: 25%;
+    color: #000;
+    margin: 5px;
+}
+
+@media (max-width: 600px)  {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
